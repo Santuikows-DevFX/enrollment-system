@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@600&family=Quicksand:wght@500&display=swap');
+
+.App {
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+#backgroundImage{
+  background: url(/bg-images/STI.png) no-repeat center center / cover;
+  display: flex;
+  justify-content: center;
+  height: 100%;
+  width: 100%;
+}
+
+
+.text {
+  font-family: 'Quicksand', sans-serif;
+}
