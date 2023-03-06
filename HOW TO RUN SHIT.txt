@@ -1,0 +1,7 @@
+HOW TO RUN SHIT
+
+1. go to PHP directory which is itong folder na nandito (ilagay mo yan sa react files mo), then type this command, php -S localhost:8000
+2. after mag start niyan npm start mo na yung app.js
+3. make sure din pala naka on yung xampp
+
+**May minor changes lang akong ginawa sa code lalo na yung sa pass field, and ginawa ko yan habang nag ool class kasi fck listening shits**
